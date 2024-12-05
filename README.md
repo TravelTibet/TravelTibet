@@ -1,6 +1,6 @@
 ## Hi everybody ! 👋
 - 🔭 I’m a student.
-- 🌱 I’m currently learning opencv(C++) and QT5.
+- 🌱 I’m currently learning opencv(C++ adn Python) and QT5.
 <!--
 **TravelTibet/TravelTibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
