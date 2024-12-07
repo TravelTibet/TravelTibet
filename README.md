@@ -1,6 +1,19 @@
-## Hi everybody ! 👋
+## Hi everybody ! 🙋‍♂️
 - 🔭 I’m a student.
 - 🌱 I’m currently learning opencv(C++ and Python) and QT5.
+
+  
+<div align="center">
+ <!-- knock code pictures 敲代码的图片 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  </picture>
+
+</div>
+
+
 <!--
 **TravelTibet/TravelTibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
