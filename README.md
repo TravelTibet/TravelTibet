@@ -1,4 +1,4 @@
-## Hi everybody ! 🙋‍♂️
+## Hi everybody ! 🙋🏻
 - 🔭 I’m a student.
 - 🌱 I’m currently learning opencv(C++ and Python) and QT5.
 
