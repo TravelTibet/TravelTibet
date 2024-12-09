@@ -18,12 +18,9 @@
 </picture>
 </div>
 
-## 📊 GitHub 数据统计
 
-<div align="center">
-  <!-- metrics 基础资料 -->
-  ![Metrics](/github-metrics.svg)
-</div>
+## GitHub数据
+
 <div align="center">
   <!-- GitHub 数据统计 -->
   
@@ -52,7 +49,13 @@
     </tr>
   </table>
 </div>
-# 参考
+
+## 📊 GitHub 具体数据统计
+
+<!-- metrics 基础资料 -->
+![Metrics](/github-metrics.svg)
+
+## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
 2. [Peter-JX/Peter-JX](https://github.com/Peter-JXL/Peter-JXL)
 
