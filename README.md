@@ -59,6 +59,13 @@
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
 2. [Peter-JX/Peter-JX](https://github.com/Peter-JXL/Peter-JXL)
 
+> [!NOTE]
+> 
+> 把两个action的触发都改成了12小时自动触发一次，不然会超次数限制
+>
+> GitHub 免费计划每个月对action 调用时长有限制!
+
+
 
 <!--
 **TravelTibet/TravelTibet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
