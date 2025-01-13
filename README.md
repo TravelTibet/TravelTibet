@@ -6,7 +6,7 @@
 <div align="center">
  <!-- knock code pictures 敲代码的图片 -->
   <picture>
-    <img src ="https://github.com/TravelTibet/gallery/blob/main/Github/2025.01/Nice.gif" />
+    <img src ="https://github.com/TravelTibet/gallery/blob/main/Github/2025.01/Nice.gif" width = "300px" height="300px" />
   </picture>
   
  <!-- 贪吃蛇动画 -->
