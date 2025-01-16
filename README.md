@@ -1,5 +1,6 @@
-## Hi everybody ! 👨‍💻
+## Hi everybody ! 
 - 🔭 I’m a student.
+- 👨‍💻 I am currently working as an intern in the field of computer vision.
 - 🌱 I’m currently learning opencv4(C++ and Python3) and QT5.
 
   
