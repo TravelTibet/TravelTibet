@@ -29,25 +29,20 @@
   <img src  = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TravelTibet&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
   
   
-  <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TravelTibet&theme=light&hide_border=true" />
-    <img src="https://streak-stats.demolab.com/?user=TravelTibet&theme=dark&hide_border=true" />
-  </picture>
+<!-- github-readme-streak-stats 连续提交代码天数记录 -->
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=TravelTibet&theme=ocean-gradient&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
-  <!-- GitHub Activity Graph GitHub 活动图 -->
-  <table>
-    <tr>
-      <td>
-        <picture>
-          <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-activity-graph.vercel.app/graph?username=TravelTibet&theme=tokyo-night" />
-          <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TravelTibet&theme=xcode" />
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Peter-JXL&theme=tokyo-night" />
-        </picture>
-    </tr>
-  </table>
+<!-- 奖杯-->
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=TravelTibet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+
+<!-- CSDN 数据-->
+<!--
+[![CSDN](https://stats.justsong.cn/api/csdn?id=钅日 勿 XiName)](https://blog.csdn.net/m0_67829475?spm=1011.2124.3001.5343)
+-->
+
 </div>
 
 ## 📊 GitHub 具体数据统计
