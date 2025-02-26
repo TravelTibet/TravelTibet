@@ -5,7 +5,7 @@
 
   
 <div align="center">
- <!-- knock code pictures 敲代码的图片 -->
+ <!-- knock code pictures gif图片 -->
   <picture>
     <img src ="https://github.com/TravelTibet/gallery/blob/main/Github/2025.01/Nice.gif" width = "300px" height="300px" />
   </picture>
@@ -30,9 +30,13 @@
   
   
   <!-- github-readme-streak-stats 连续提交代码天数记录 -->
- 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TravelTibet&border_radius=6&locale=zh_Hans&date_format=%5BY.%5Dn.j&exclude_days=Sun)](https://git.io/streak-stats)
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=TravelTibet&theme=light&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=TravelTibet&theme=dark&hide_border=true" />
+  </picture>
   
+[![GitHub Streak](https://streak-stats.demolab.com?user=TravelTibet&theme=ocean-gradient&border_radius=3&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+
   <!-- GitHub Activity Graph GitHub 活动图 -->
   <table>
     <tr>
