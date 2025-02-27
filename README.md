@@ -38,17 +38,18 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=TravelTibet&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 -->
 
-<!-- CSDN 数据-->
-<!--
-[![CSDN](https://stats.justsong.cn/api/csdn?id=钅日 勿 XiName)](https://blog.csdn.net/m0_67829475?spm=1011.2124.3001.5343)
--->
-
 </div>
 
 ## 📊 GitHub 具体数据统计
 
 <!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
+
+## 社交网站
+
+<!-- CSDN 数据-->
+[![CSDN](https://stats.justsong.cn/api/csdn?id=m0_67829475&lang=zh-CN&theme=solarized-light)](https://blog.csdn.net/m0_67829475)
+
 
 ## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
