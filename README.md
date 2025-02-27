@@ -49,10 +49,11 @@
 
 <!-- CSDN 数据-->
 [![CSDN](https://stats.justsong.cn/api/csdn?id=m0_67829475&lang=zh-CN&theme=solarized-light)](https://blog.csdn.net/m0_67829475)
-![LeetCode](https://stats.justsong.cn/api/leetcode?username=xiname&cn_username=xiname&lang=zh-CN&theme=buefy)
 
 <!-- LeetCode 数据-->
-
+<!--
+  ![LeetCode](https://stats.justsong.cn/api/leetcode?username=xiname&cn_username=xiname&lang=zh-CN&theme=buefy)
+-->
 
 ## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
