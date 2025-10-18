@@ -1,7 +1,6 @@
 ## Hi everybody ! 
-- 🔭 I’m not a student.
 - 👨‍💻 I am currently working as an intern in the field of computer vision.
-- 🌱 I’m currently learning opencv4(C++ and Python3) and QT5.
+- 🌱 I’m currently learning ML for computer vision.
 
   
 <div align="center">
