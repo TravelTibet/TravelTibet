@@ -40,6 +40,7 @@
 
 </div>
 
+[![Metrics(Create Github Info)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml)
 ## 📊 GitHub 具体数据统计
 
 <!-- metrics 基础资料 -->
