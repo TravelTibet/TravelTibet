@@ -8,7 +8,8 @@
   <picture>
     <img src ="https://github.com/TravelTibet/gallery/blob/main/Github/2025.01/Nice.gif" width = "300px" height="300px" />
   </picture>
-  
+
+  [![generate snake](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml)
  <!-- 贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TravelTibet/TravelTibet/output/github-contribution-grid-snake-dark.svg">
