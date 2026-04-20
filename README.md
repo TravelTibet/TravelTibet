@@ -1,7 +1,9 @@
 ## Hi everybody ! 
-- 👨‍💻 I am currently working as an intern in the field of computer vision.
+- 👨‍💻  I am currently working in computer vision.
 - 🌱 I’m currently learning ML for computer vision.
 
+  [![generate snake](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml)
+  [![Metrics(Create Github Info)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml)
   
 <div align="center">
  <!-- knock code pictures gif图片 -->
@@ -9,7 +11,7 @@
     <img src ="https://github.com/TravelTibet/gallery/blob/main/Github/2025.01/Nice.gif" width = "300px" height="300px" />
   </picture>
 
-  [![generate snake](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml)
+
  <!-- 贪吃蛇动画 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TravelTibet/TravelTibet/output/github-contribution-grid-snake-dark.svg">
@@ -40,7 +42,7 @@
 
 </div>
 
-[![Metrics(Create Github Info)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml)
+
 ## 📊 GitHub 具体数据统计
 
 <!-- metrics 基础资料 -->
