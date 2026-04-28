@@ -1,5 +1,5 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics(Create Github Info)
+name: Create Github Info
 on:
   # Schedule updates (each hour)
   schedule:
