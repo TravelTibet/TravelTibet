@@ -4,6 +4,7 @@
 
   [![generate snake](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/Snake.yml)
   [![Metrics(Create Github Info)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml/badge.svg)](https://github.com/TravelTibet/TravelTibet/actions/workflows/main.yml)
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTravelTibet%2FTravelTibet&label=Profile%20views&countColor=%232ccce4&style=plastic&labelStyle=upper)
   
 <div align="center">
  <!-- knock code pictures gif图片 -->
