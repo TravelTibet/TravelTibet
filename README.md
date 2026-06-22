@@ -21,7 +21,19 @@
 </picture>
 </div>
 
+## 社交网站
 
+<!-- CSDN 数据-->
+[![CSDN](https://stats.justsong.cn/api/csdn?id=m0_67829475&lang=zh-CN&theme=solarized-light)](https://blog.csdn.net/m0_67829475)
+
+<!-- LeetCode 数据-->
+<!--
+  ![LeetCode](https://stats.justsong.cn/api/leetcode?username=xiname&cn_username=xiname&lang=zh-CN&theme=buefy)
+-->
+
+<details>
+<summary>数据统计</summary>
+  
 ## GitHub数据
 
 <div align="center">
@@ -49,15 +61,7 @@
 <!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
 
-## 社交网站
-
-<!-- CSDN 数据-->
-[![CSDN](https://stats.justsong.cn/api/csdn?id=m0_67829475&lang=zh-CN&theme=solarized-light)](https://blog.csdn.net/m0_67829475)
-
-<!-- LeetCode 数据-->
-<!--
-  ![LeetCode](https://stats.justsong.cn/api/leetcode?username=xiname&cn_username=xiname&lang=zh-CN&theme=buefy)
--->
+</details>
 
 ## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
