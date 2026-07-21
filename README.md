@@ -53,12 +53,14 @@
 
 </div>
 
-
+<details>
+<summary>点击此处查看具体数据</summary>
+  
 ## 📊 GitHub 具体数据统计
 
 <!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
-
+</details>
 
 ## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
