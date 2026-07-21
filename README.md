@@ -31,8 +31,6 @@
   ![LeetCode](https://stats.justsong.cn/api/leetcode?username=xiname&cn_username=xiname&lang=zh-CN&theme=buefy)
 -->
 
-<details>
-<summary>数据统计</summary>
   
 ## GitHub数据
 
@@ -61,7 +59,6 @@
 <!-- metrics 基础资料 -->
 ![Metrics](/github-metrics.svg)
 
-</details>
 
 ## 参考
 1. [超详细的GitHUb个人主页](https://www.cnblogs.com/PeterJXL/p/18437094)
